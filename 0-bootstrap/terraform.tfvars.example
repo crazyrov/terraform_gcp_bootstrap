@@ -1,0 +1,10 @@
+# Copyright 2021 Google LLC. This software is provided as-is, without warranty or representation for any use or purpose. Your use of it is subject to your agreement with Google.
+
+org_id                      = "000000000000"
+billing_account             = "000000-000000-000000"
+group_org_admins            = "gcp-organization-admins@example.com"
+group_billing_admins        = "gcp-billing-admins@example.com"
+default_region              = "australia-southeast1"
+project_prefix              = "gcp-egl"
+terraform_version           = "0.13.3"
+terraform_version_sha256sum = "35c662be9d32d38815cde5fa4c9fa61a3b7f39952ecd50ebf92fd1b2ddd6109b"
